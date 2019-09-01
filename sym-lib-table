@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name usb1wireadapter)(type Legacy)(uri /home/ali-teke/usb1wireadapter/usb1wireadapter.lib)(options "")(descr ""))
+  (lib (name usb1wireadapter-rescue)(type Legacy)(uri ${KIPRJMOD}/usb1wireadapter-rescue.lib)(options "")(descr ""))
+)

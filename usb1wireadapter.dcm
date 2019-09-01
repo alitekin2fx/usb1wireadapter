@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP3012
+D 1.5MHz STEP-UP DC-DC CONVERTER
+K STEP-UP DC-DC CONVERTER
+F https://www.diodes.com/assets/Datasheets/AP3012.pdf
+$ENDCMP
+#
+$CMP DS2480B
+D Serial to 1-Wire Line Driver
+K 1-Wire, Driver
+F https://datasheets.maximintegrated.com/en/ds/DS2480B.pdf
+$ENDCMP
+#
+$CMP DS9503
+D ESD Protection Diode with Resistors
+K ESD Protection
+F https://datasheets.maximintegrated.com/en/ds/DS9503.pdf
+$ENDCMP
+#
+#End Doc Library
